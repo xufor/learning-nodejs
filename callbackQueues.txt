@@ -1,0 +1,6 @@
+The event loop looks for callbacks in these four queues:
+
+1) Timers
+2) I/O callbacks
+3) setImmediate
+4) Close callbacks
