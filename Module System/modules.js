@@ -1,3 +1,5 @@
+// a module in JavaScript is just a file containing related code
+
 // prints current module info
 // console.log(module);
 
